@@ -2,7 +2,7 @@
 <img width="350" alt="logo-le grand marche" src="Images/lapage.png" />
 </p>
 
-# Aeroworld
+# Lapage
 ## Projet 9 - OpenClassRooms - Data Analyst
 
 ### Contexte :  
