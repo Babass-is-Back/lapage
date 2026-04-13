@@ -37,7 +37,7 @@ Faire un point global sur les différents indicateurs et chiffres clés de l’e
 	- l'âge des clients et la catégorie des livres achetés.
 
 ## Livrables :   
-
+(Clic droit + ouvrir le lien dans un nouvel onglet)
 <p>
     <p><strong>Présentation : </stong></p>
     <a href="Livrables/presentation.pdf" title="Voir la présentation">
